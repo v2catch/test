@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+       "baseUrl": ".",
+       "target": "es2019",
+       "paths": {
+         "@/*": [
+            "src/*"
+         ],
+       }
+    }
+ }
